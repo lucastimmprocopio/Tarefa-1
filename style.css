@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#corpo{
+        display: flex;
+        width: 600px;
+        padding: 10px 2%;
+    }
+
+.coluna2{
+        text-align: center;
+        width: 30%;
+        background-color: yellow;
+        margin-right: 5%;
+    }
+.coluna1{
+        text-align: center;
+        width: 70%;
+        background-color: green;
+         margin-left: 10%;
+    }
